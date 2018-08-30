@@ -108,7 +108,7 @@ experiences:
       company: Coolpad
       details: |
         I worked as a UI Designer and a tester for CoolUI 8.0
-        Also was involved in porting custom ROMS for different devices
+        Also was involved in porting custom ROMS for different devices.
 
     - role: XDA Staff
       time: 2014 - Present
@@ -118,13 +118,13 @@ experiences:
         Redmi Note 5 Pro (Whyred),
         Redmi Note 4 (Mido),
         Coolpad Note 3 Lite (CPN3L),
-        Redmi 4A
+        Redmi 4A (Rolex).
       
 
 projects:
     title: Projects
     intro: >
-      My projects are usually based on microcontrollers. I also design software and port android roms
+      My projects are usually based on microcontrollers. I also design software and port android ROMS.
 
     assignments:
       - title: Home Automation
@@ -139,7 +139,7 @@ publications:
     #  I've lots of ideas and projects to publish. Will upload them soon.
 
     papers:
-      - title: Password cracking and decoding
+      - title: Password cracking and decoding.
         authors: By Shawn Blaze
         conference: YouTube
 
