@@ -56,7 +56,7 @@ career-profile:
       I am good at programming and electronics. I like to buid IOT devices using microcontrollers.
       I'm interested in manipulating circuits and programs to make them work as i want them to work.
 
-      My main intrests are in networking and DBMS. I like giving talks and seminars.
+      My main interests are in networking and DBMS. I like giving talks and seminars.
 
 education:
     - degree: Pursuing BSc in Computer Science
@@ -114,17 +114,17 @@ experiences:
       time: 2014 - Present
       company: www.xda-developers.com
       details: |
-        Working as developer for XDA in 3 departments
-        Redmi Note 5 Pro (Whyred)
-        Redmi Note 4 (Mido)
-        Coolpad Note 3 Lite (CPN3L)
+        Working as developer for XDA in 3 departments - 
+        Redmi Note 5 Pro (Whyred),
+        Redmi Note 4 (Mido),
+        Coolpad Note 3 Lite (CPN3L),
         Redmi 4A
       
 
 projects:
     title: Projects
     intro: >
-      My projects are usually bsaed on microcontrollers. I also design software and port android roms
+      My projects are usually based on microcontrollers. I also design software and port android roms
 
     assignments:
       - title: Home Automation
