@@ -158,7 +158,10 @@ skills:
       - name: Networking
         level: 96%
 
-      - name: Rasberry Pi
+      - name: Web Designing
+        level: 96%
+
+       - name: Rasberry Pi
         level: 95%
 
       - name: Python & Django
