@@ -12,8 +12,6 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    phone: WhatsApp 
-    <a href="http://api.whatsapp.com/send?phone=918553504618" target="_blank" rel="nofollow">+91 8553504618</a>
     email: shawnblaze72626842@gmail.com
     phone: +91 8310523151
     website: blog.shawnblaze26.com #do not add http://
