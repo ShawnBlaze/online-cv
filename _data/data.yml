@@ -73,7 +73,7 @@ education:
 experiences:
     - role: Laptop and PC Technician
       time: 2016 - Present
-      company: Start Up
+      company: Start Up at BlazeProductions
       details: |
         I run my own buissness as a laptop & PC repair services. I charge a resonable ammount to my custumers.
         I repair anything from a hardware failure to a software curruption.
@@ -88,59 +88,37 @@ experiences:
           - Replacing dead components
           - Everything else that can be usually fixed for a high price in a service center will be fixed by me for a low price
           
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Mobile repair and software debugging
+      time: 2014 - Present
+      company: Start Up at BlazeProductions
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        I can repair your Android or iOS devices. Starting from any software issues to replacement of hardware is done by me for a resonable price.
+        Few of my services are 
 
-          - Bullet point
-          - Bullet point
+          - Upgrading to latest Android or iOS versions
+          - Optimizing old phones for maximum speed & performance
+          - Removing lag and junk from your devices
+          - Porting different android OS for your devices
+          - Installing Mods and other custum tweeks
+          - Prolonging battery life with software modifications
+          - Improving camers quality, Speaker output, Michrophone input and improving UI
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: UI Developer and Tester
+      time: 2016
+      company: Coolpad
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        I worked as a UI Designer and a tester for CoolUI 8.0
+        Also was involved in porting custum ROMS for different devices
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      My projects are usually bsaed on microcontrollers. I also design softwarer and port android roms
 
     assignments:
-      - title: Velocity
+      - title: Home Automation
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Home automation with Rasberry Pi and Arduino"
 
 publications:
     title: Publications
@@ -150,17 +128,10 @@ publications:
       bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Algorithm for solving a rubiks cube
+        authors: By Shawn Blaze
+        conference: YouTube
+        link: "https://youtu.be/Bl4ac9mSwpI"
 
 skills:
     title: Skills &amp; Proficiency
