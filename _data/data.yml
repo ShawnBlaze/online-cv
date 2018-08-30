@@ -117,8 +117,10 @@ projects:
 
     assignments:
       - title: Home Automation
-        link: "#hook"
         tagline: "Home automation with Rasberry Pi and Arduino"
+      - title: Algorithm for solving a rubiks cube
+        link: "https://youtu.be/Bl4ac9mSwpI"
+        tagline: "YouTube"
 
 publications:
     title: Publications
@@ -126,40 +128,98 @@ publications:
       I've lots of ideas and projects to publish. Will upload them soon.
 
     papers:
-      - title: Algorithm for solving a rubiks cube
+      - title: Password cracking and decoding
         authors: By Shawn Blaze
         conference: YouTube
-        link: "https://youtu.be/Bl4ac9mSwpI"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
+      - name: Micro Controllers
+        level: 100%
 
       - name: Arduino
-        level: 85%
+        level: 98%
 
-      - name: Sketch & Photoshop
-        level: 80%
-
-      - name: After Effects & Premere
-        level: 70%
+      - name: Networking
+        level: 96%
 
       - name: Rasberry Pi
+        level: 95%
+
+      - name: Python & Django
+        level: 94%
+
+      - name: Javascript & jQuery
+        level: 94%
+
+      - name: Linux Commands
+        level: 94%
+
+      - name: Java
+        level: 93%
+
+      - name: C++ & C#
+        level: 93%
+
+      - name: HTML & CSS
+        level: 92%
+
+      - name: C
+        level: 90%
+
+      - name: Swift
+        level: 90%
+
+      - name: Leonardo 
+        level: 88%
+
+      - name: Illustrator & Photoshop
+        level: 86%
+
+      - name: After Effects & Premere
+        level: 84%
+
+      - name: Filmora & Camtasia
+        level: 83%
+
+      - name: Audacity & FL Studio
+        level: 82%
+
+      - name: Sony Vegas & Inkskpe
+        level: 80%
+
+      - name: CorelDRAW & Autodesk Maya
         level: 75%
+
+      - name: Shell
+        level: 74%
+
+      - name: JSON
+        level: 73%
+
+      - name: SPSS
+        level: 72%
+
+      - name: R Programming
+        level: 71%
+
+      - name: SQL
+        level: 70%
+
+      - name: LaTeX, MiKTeX, TeXpen & Lyx 
+        level: 69%
+
+      - name: Android Studio
+        level: 68%
+
+      - name: Matlab
+        level: 68%
+
+      - name: Objective-C
+        level: 65%
+
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://api.whatsapp.com/send?phone=918553504618" target="_blank" rel="nofollow">Shawn Blaze</a>
