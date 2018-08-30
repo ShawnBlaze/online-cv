@@ -14,27 +14,33 @@ sidebar:
     # Sidebar links
     email: shawnblaze72626842@gmail.com
     phone: +91 8553504618
-    website: blog.webjeda.com #do not add http://
-    linkedin: shawnblaze
-    github: shawnblaze
+    website: blog.shawnblaze26.com #do not add http://
+    linkedin: shawnblaze26
+    github: shawnblaze26
     gitlab:
     bitbucket:
-    twitter: '@shawnblaze'
+    twitter: '@shawnblaze26'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
     languages:
       - idiom: English
+        level: Professional
+		
+	  - idiom: Hindi
+        level: Native
+		
+      - idiom: Kannada
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-        
+      - idiom: Konkani
+        level: Native
+		
+      - idiom: Tulu
+        level: Native
+		
     interests:
-      - item: Climbing
+      - item: Fixing Electronic Gadgets
         link:
 
       - item: Snowboarding
