@@ -75,8 +75,8 @@ experiences:
       time: 2016 - Present
       company: Start Up at BlazeProductions
       details: |
-        I run my own buissness as a laptop & PC repair services. I charge a resonable ammount to my custumers.
-        I repair anything from a hardware failure to a software curruption.
+        I run my own buissness as a laptop & PC repair services. I charge a resonable ammount to my customers.
+        I repair anything from a hardware failure to a software corruption.
         I deal with all kinds of laptops & PC's from various companies.
         Few of my services are 
 
@@ -84,7 +84,7 @@ experiences:
           - Recovering lost data
           - Cleaning internals
           - Optimizing old laptops for maximum speed & performance
-          - Upgrding internal components such as RAM, HDD, SSD, Proccessors etc.
+          - Upgrading internal components such as RAM, HDD, SSD, Proccessors etc.
           - Replacing dead components
           - Everything else that can be usually fixed for a high price in a service center will be fixed by me for a low price <i class="fas fa-heart"></i>
           
@@ -123,9 +123,9 @@ projects:
         tagline: "YouTube"
 
 publications:
-    title: Publications
-    intro: |
-      I've lots of ideas and projects to publish. Will upload them soon.
+   # title: Publications
+   # intro: |
+    #  I've lots of ideas and projects to publish. Will upload them soon.
 
     papers:
       - title: Password cracking and decoding
