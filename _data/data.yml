@@ -135,9 +135,10 @@ projects:
         tagline: "YouTube"
 
 publications:
-   # title: Publications
-   # intro: |
-    #  I've lots of ideas and projects to publish. Will upload them soon.
+    title: Publications
+    intro: |
+      Check Out my calculator<a href="cal.html" target="_blank" rel="nofollow">Calculator.</a>
+      More coming soon...
 
     papers:
       - title: Password cracking and decoding.
