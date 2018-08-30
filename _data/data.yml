@@ -71,23 +71,23 @@ education:
       time: 2014
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Laptop and PC Technician
+      time: 2016 - Present
+      company: Start Up
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        I run my own buissness as a laptop & PC repair services. I charge a resonable ammount to my custumers.
+        I repair anything from a hardware failure to a software curruption.
+        I deal with all kinds of laptops & PC's from various companies.
+        Few of my services are 
 
-          - Bullet point
-          - Bullet point 
-
+          - Upgrading software
+          - Recovering lost data
+          - Cleaning internals
+          - Optimizing old laptops for maximum speed & performance
+          - Upgrding internal components such as RAM, HDD, SSD, Proccessors etc.
+          - Replacing dead components
+          - Everything else that can be usually fixed for a high price in a service center will be fixed by me for a low price
+          
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
