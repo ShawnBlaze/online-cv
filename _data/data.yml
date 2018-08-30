@@ -54,35 +54,21 @@ career-profile:
     summary: |
       I like to explore new Gadgets, edit their softwares and see how things work.
       I am good at programming and electronics. I like to buid IOT devices using microcontrollers.
+	  I'm intrested in manuplating circuits and programs to make them work as i want them to work.
 
-      Second paragraph if required.
+      My main intrests are in networking and DBMS. I like giving talks and seminars.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+    - degree: Pursuing BSc in Computer Science
+      university: St. Aloysius College Autonomous
 
-          - Bullet point
-          - Bullet point 
+    - degree: PUC in Physics, Computer Science, Mathematics, Chemistry
+      university: St. Aloysius PU College
+      time: 2014 - 2016
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
+    - degree: S.S.L.C
+      university: St. Aloysius High College
+      time: 2014
 
 experiences:
     - role: Lead Developer
