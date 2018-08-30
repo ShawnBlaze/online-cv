@@ -54,7 +54,7 @@ career-profile:
     summary: |
       I like to explore new Gadgets, edit their softwares and see how things work.
       I am good at programming and electronics. I like to buid IOT devices using microcontrollers.
-      I'm intrested in manuplating circuits and programs to make them work as i want them to work.
+      I'm interested in manipulating circuits and programs to make them work as i want them to work.
 
       My main intrests are in networking and DBMS. I like giving talks and seminars.
 
@@ -99,21 +99,32 @@ experiences:
           - Optimizing old phones for maximum speed & performance
           - Removing lag and junk from your devices
           - Porting different android OS for your devices
-          - Installing Mods and other custum tweeks
+          - Installing Mods and other custom tweeks
           - Prolonging battery life with software modifications
-          - Improving camers quality, Speaker output, Michrophone input and improving UI
+          - Improving camera quality, Speaker output, Michrophone input and improving UI
 
     - role: UI Developer and Tester
-      time: 2016
+      time: 2016 - 2017
       company: Coolpad
       details: |
         I worked as a UI Designer and a tester for CoolUI 8.0
-        Also was involved in porting custum ROMS for different devices
+        Also was involved in porting custom ROMS for different devices
+
+    - role: XDA Staff
+      time: 2014 - Present
+      company: www.xda-developers.com
+      details: |
+        Working as developer for XDA in 3 departments
+        Redmi Note 5 Pro (Whyred)
+        Redmi Note 4 (Mido)
+        Coolpad Note 3 Lite (CPN3L)
+        Redmi 4A
+      
 
 projects:
     title: Projects
     intro: >
-      My projects are usually bsaed on microcontrollers. I also design softwarer and port android roms
+      My projects are usually bsaed on microcontrollers. I also design software and port android roms
 
     assignments:
       - title: Home Automation
