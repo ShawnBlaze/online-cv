@@ -43,20 +43,18 @@ sidebar:
       - item: Fixing Electronic Gadgets
         link:
 
-      - item: Snowboarding
+      - item: Tweaking Mobile Software
         link:
 
-      - item: Cooking
+      - item: Editing Videos and Photos
         link:
 
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      I like to explore new Gadgets, edit their softwares and see how things work.
+	  I am good at programming and electronics. I like to buid IOT devices using microcontrollers.
+	  
 
       Second paragraph if required.
 
@@ -202,4 +200,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Shawn Blaze</a>
