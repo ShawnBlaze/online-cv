@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Shawn Blaze
@@ -13,7 +13,8 @@ sidebar:
 
     # Sidebar links
     email: shawnblaze72626842@gmail.com
-    phone: +91 8310523151 / <a href="http://api.whatsapp.com/send?phone=918553504618" target="_blank" rel="nofollow">+91 8553504618</a>
+    phone: +91 8310523151
+    whatsapp: <a href="http://api.whatsapp.com/send?phone=918553504618" target="_blank" rel="nofollow">+91 8553504618</a>
     website: blog.shawnblaze26.com #do not add http://
     linkedin: shawnblaze26
     github: shawnblaze26
@@ -153,5 +154,10 @@ skills:
       - name: Sketch & Photoshop
         level: 60%
 
+      - name: After Effects & Premere
+        level: 60%
+
+      - name: Sketch & Photoshop
+        level: 60%
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://api.whatsapp.com/send?phone=918553504618" target="_blank" rel="nofollow">Shawn Blaze</a>
