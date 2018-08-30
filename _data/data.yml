@@ -136,7 +136,7 @@ projects:
 
 publications:
     title: Publications
-    intro: |
+    intro: >
       Check Out my calculator<a href="cal.html" target="_blank" rel="nofollow">Calculator.</a>
       More coming soon...
 
