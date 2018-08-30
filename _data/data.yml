@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: shawnblaze72626842@gmail.com
     phone: +91 8310523151
-    whatsapp: <a href="http://api.whatsapp.com/send?phone=918553504618" target="_blank" rel="nofollow">+91 8553504618</a>
+    phone: +91 <a href="http://api.whatsapp.com/send?phone=918553504618" target="_blank" rel="nofollow">8553504618</a>
     website: blog.shawnblaze26.com #do not add http://
     linkedin: shawnblaze26
     github: shawnblaze26
@@ -151,13 +151,16 @@ skills:
       - name: Ruby on Rails
         level: 85%
 
+      - name: Arduino
+        level: 85%
+
       - name: Sketch & Photoshop
-        level: 60%
+        level: 80%
 
       - name: After Effects & Premere
-        level: 60%
+        level: 70%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Rasberry Pi
+        level: 75%
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://api.whatsapp.com/send?phone=918553504618" target="_blank" rel="nofollow">Shawn Blaze</a>
